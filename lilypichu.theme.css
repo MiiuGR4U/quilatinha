@@ -33,12 +33,12 @@
   --interactive-normal: #A7A7CC;
   --channels-default: #f8e1e5;
 
-  --text-muted: #C0C0EA;
+  --text-muted: #6D6DA0;
   --interactive-muted: #ad8c91;
 
-  --header-secondary: #C0C0EA;
-  --interactive-hover: #C0C0EA;
-  --interactive-active: #C0C0EA;
+  --header-secondary: #6D6DA0;
+  --interactive-hover: #6D6DA0;
+  --interactive-active: #6D6DA0;
 
   /* Background color */
   --background-primary: #EBACC7;

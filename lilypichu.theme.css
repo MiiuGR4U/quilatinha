@@ -41,10 +41,10 @@
   --interactive-active: #e2c1c7;
 
   /* Background color */
-  --background-primary: #DBAFB6;
-  --background-secondary: #FF0000;
-  --background-secondary-alt: #FF6A00;
-  --background-tertiary: #FF00DC;
+  --background-primary: #EBACC7;
+  --background-secondary: #888BBC;
+  --background-secondary-alt: #888BBC;
+  --background-tertiary: #EBACC7;
   --background-floating: #4CFF00;
   --background-accent: #0026FF;
   --channeltextarea-background: var(--background-secondary);

@@ -33,20 +33,20 @@
   --interactive-normal: #A7A7CC;
   --channels-default: #f8e1e5;
 
-  --text-muted: #6D6DA0;
+  --text-muted: #7474AA;
   --interactive-muted: #ad8c91;
 
-  --header-secondary: #6D6DA0;
-  --interactive-hover: #6D6DA0;
-  --interactive-active: #6D6DA0;
+  --header-secondary: #7474AA;
+  --interactive-hover: #7474AA;
+  --interactive-active: #7474AA;
 
   /* Background color */
   --background-primary: #EBACC7;
   --background-secondary: #888BBC;
   --background-secondary-alt: #888BBC;
   --background-tertiary: #EBACC7;
-  --background-floating: #7474AA;
-  --background-accent: #7474AA;
+  --background-floating: #6D6DA0;
+  --background-accent: #6D6DA0;
   --channeltextarea-background: var(--background-secondary);
   --background-modifier-hover: rgba(56, 31, 31, 0.32);
   --background-modifier-active: rgba(19, 12, 12, 0.32);

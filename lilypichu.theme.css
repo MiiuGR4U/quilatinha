@@ -30,15 +30,15 @@
   /* Text */
   --text-normal: #f8e1e5;
   --header-primary: #f8e1e5;
-  --interactive-normal: #fab1bd;
+  --interactive-normal: #A7A7CC;
   --channels-default: #f8e1e5;
 
-  --text-muted: #e2c1c7;
+  --text-muted: #C0C0EA;
   --interactive-muted: #ad8c91;
 
-  --header-secondary: #e2c1c7;
-  --interactive-hover: #e2c1c7;
-  --interactive-active: #e2c1c7;
+  --header-secondary: #C0C0EA;
+  --interactive-hover: #C0C0EA;
+  --interactive-active: #C0C0EA;
 
   /* Background color */
   --background-primary: #EBACC7;
